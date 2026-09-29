@@ -24,7 +24,6 @@
 | **RV32I Core** | 32-bit RISC-V integer processor in Verilog HDL. Single-cycle first, then a 5-stage pipeline with forwarding & hazard detection | 🟡 In progress |
 | [**Hallym Circuit Studio**](https://github.com/ars2323/hallym-circuit-studio) | Micro-architecture lab tool for Hallym University (Logisim 2.7.1 fork). Programs exported from Hallym MIPS run on a real CPU circuit | 🟢 Working |
 | [**Hallym MIPS Simulator**](https://github.com/ars2323/hallym-mips-simulator) | MIPS32 simulator for Hallym University Computer Architecture courses | 🟢 Working |
-| [**QtSpim-Edu**](https://github.com/ars2323/qtspim-edu) | Educational GUI extension of QtSpim 9.1.24, simulator core unmodified | 🟡 In progress |
 
 **Roadmap:** `RV32I single-cycle` → `5-stage pipeline` → `FPGA` → `xv6-based mini OS` → `custom MAC instruction for NN acceleration`
 
