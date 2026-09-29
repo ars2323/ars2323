@@ -30,16 +30,16 @@
 
 ### 🏆 Awards
 
-| Year | Competition | Result |
-|---|---|---|
-| 2026 | SW Capstone Design Competition (Spring Semester) | 🥇 **Grand Prize** |
-| 2026 | Gangwon AI·SW Festival Project Competition | **Special Award** |
-| 2025 | Gangwon Startup Idea Contest | 🥇 **Grand Prize** |
-| 2025 | National ICT Smart Device Contest | 🥇 **Grand Prize** |
-| 2025 | Startup-Centered University Startup Idea Competition | **Creativity Award** |
-| 2025 | Dongbuk-gwon ICT Innovation Square Startup Idea Competition | **Encouragement Award** |
-| 2025 | Promising Student Startup Teams 300 | **Selected** (Growth Track) |
-| 2025 | Hana Social Venture University | **Selected as Top Team** |
+| Year | Competition | Result | Awarded by |
+|---|---|---|---|
+| 2026 | SW Capstone Design Competition (Spring Semester) | 🥇 **Grand Prize** | — |
+| 2026 | Gangwon AI·SW Festival Project Competition | **Special Award** | — |
+| 2025 | Hana Social Venture University, Final Showcase | **Encouragement Award** | Chairman, Hana Financial Group |
+| 2025 | Promising Student Startup Teams 300+ | **Selected** (Growth Track) | Minister of Education |
+| 2025 | 12th National ICT Smart Device Contest | 🥇 **Grand Prize** | Minister of Science and ICT |
+| 2025 | University Startup Idea Challenge (Youth Startup Blooming Day) | **Creativity Award** | Ministry of SMEs and Startups · KISED |
+| 2025 | Dongbuk-gwon ICT Innovation Square Startup Idea Competition, SW Development Track | **Encouragement Award** | President, Gangwon Information & Culture Industry Promotion Agency |
+| 2025 | Gangwon Startup Tantan-daero Idea Competition | 🥇 **Grand Prize** | Director, KNU Startup Innovation Institute |
 
 ### 📚 Path so far
 
@@ -50,6 +50,7 @@
 - **IDEC Semiconductor Design Education Center**
   - *NPU Design Fundamentals* (Korea University)
   - *RISC-V Architecture & Linux Kernel Porting* (Chonnam National University)
+- **Station C Flight Solve-A-Thon** (Jul 2025): completed, Hallym University Startup Support Center
 - **Mentor / Lab TA** for Computer Architecture (SW Mentoring, Hallym Mentoring): MIPS assembly, QtSPIM labs
 
 ### 🛠 Tools & languages
