@@ -32,14 +32,14 @@
 
 | Year | Competition | Result | Awarded by |
 |---|---|---|---|
-| 2026 | SW Capstone Design Competition (Spring Semester) | 🥇 **Grand Prize** | — |
-| 2026 | Gangwon AI·SW Festival Project Competition | **Special Award** | — |
+| 2026 | SW Capstone Design Competition (Spring Semester) | 🥇 **Grand Prize** | President, Hallym University |
+| 2026 | Gangwon AI·SW Festival Project Competition | **Special Award** | Joint Directors, Gangwon SW-Centered University Program |
 | 2025 | Hana Social Venture University, Final Showcase | **Encouragement Award** | Chairman, Hana Financial Group |
 | 2025 | Promising Student Startup Teams 300+ | **Selected** (Growth Track) | Minister of Education |
 | 2025 | 12th National ICT Smart Device Contest | 🥇 **Grand Prize** | Minister of Science and ICT |
 | 2025 | University Startup Idea Challenge (Youth Startup Blooming Day) | **Creativity Award** | Ministry of SMEs and Startups · KISED |
 | 2025 | Dongbuk-gwon ICT Innovation Square Startup Idea Competition, SW Development Track | **Encouragement Award** | President, Gangwon Information & Culture Industry Promotion Agency |
-| 2025 | Gangwon Startup Tantan-daero Idea Competition | 🥇 **Grand Prize** | Director, KNU Startup Innovation Institute |
+| 2025 | Gangwon Startup Tantan-daero Idea Competition | **KNU Startup Innovation Institute Director's Award** | Director, KNU Startup Innovation Institute |
 
 ### 📚 Path so far
 
