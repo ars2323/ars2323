@@ -22,7 +22,7 @@
 | Project | What it is | Status |
 |---|---|---|
 | **RV32I Core** | 32-bit RISC-V integer processor in Verilog HDL. Single-cycle first, then a 5-stage pipeline with forwarding & hazard detection | 🟡 In progress |
-| [**Assembly Studio**](https://github.com/ars2323/assembly-studio) | MIPS32 simulator for Hallym University Computer Architecture courses | 🟢 Working |
+| [**Assembly Studio**](https://github.com/ars2323/assembly-studio) | MIPS32/RISC-V simulator for Computer Architecture courses | 🟢 Working |
 
 **Roadmap:** `RV32I single-cycle` → `5-stage pipeline` → `FPGA` → `xv6-based mini OS` → `custom MAC instruction for NN acceleration`
 
